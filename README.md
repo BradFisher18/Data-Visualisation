@@ -1,6 +1,6 @@
 # Data Visualisation Challenge
 ## Summary
-In this challenged, the data of 249 mice were recorded as they underwent cancer tumor treatment for ten different potential drugs. 
+In this challenge, the data of 249 mice were recorded as they underwent cancer tumor treatment for ten different potential drugs which was then analysed and visualisation techniques implemented.
 ## Provided Data/Inputs
 The data provided by Pymaceuticals Inc, included the following for each mouse:
 * Gender
